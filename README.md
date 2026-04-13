@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/url-shortener-lite/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/url-shortener-lite/actions)
+[![License](https://img.shields.io/github/license/Tox1469/url-shortener-lite?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/url-shortener-lite?style=flat-square)](https://github.com/Tox1469/url-shortener-lite/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/url-shortener-lite?style=flat-square)](https://github.com/Tox1469/url-shortener-lite/stargazers)
+
+---
+
 # url-shortener-lite
 
 Encurtador de URLs em memória, com suporte a alias customizado, contagem de hits e validação de URL.
