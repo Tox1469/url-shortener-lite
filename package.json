@@ -1,0 +1,18 @@
+{
+  "name": "url-shortener-lite",
+  "version": "1.0.0",
+  "description": "Encurtador de URLs em memória com suporte a alias customizado",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["url", "shortener", "alias", "link"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
